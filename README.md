@@ -19,7 +19,7 @@ E - Esperado
 logπ... - probabilidad logarítmica de realizar esa acción en ese estado  
 A - Ventaja  
 
-La idea de esta función es hacer un paso de ascenso de gradiente (que es equivalente a tomar un descenso de gradiente inverso); De esta manera, nuestro agente se ve obligado a tomar acciones que lo lleven a obtener mayores recompensas y evitar acciones dañinas.
+La idea de esta función es hacer un paso de ascenso de gradiente (que es equivalente a tomar un descenso de gradiente inverso). De esta manera, nuestro agente se ve obligado a tomar acciones que lo lleven a obtener mayores recompensas y evitar acciones dañinas.
 
 Sin embargo, el problema viene del tamaño del paso:  
 * Demasiado pequeño, el proceso de formación es demasiado lento  
